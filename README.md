@@ -1,4 +1,5 @@
 # CONVERTIDOR DE FORMATOS AUDIOVISUALES DE IPHONE
+Creado originalmente el 17/06/2026
 Este proyecto automatiza la conversión de archivos de fotos y videos de formatos nativos de iOS (como HEIC o MOV) a formatos más universales (como JPG, PNG o MP4) usando Python.
 
 ## Estructura del Proyecto
